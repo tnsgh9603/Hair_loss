@@ -1,7 +1,49 @@
-# Hair_loss : Application for Prediction of Hair Loss with AI
+# 👨🏻‍🦲 Hair_loss : Application for Prediction of Hair Loss with AI
 - _TUK graduation work : Application for Prediction of Hair Loss with AI_                 
 - _한국공학대학교 졸업연구 프로젝트 : AI를 활용한 탈모 진단 및 예방 어플리케이션_    
 
+
+<p align="center">
+  <img src="https://github.com/CodingLeeSeungHoon/Hair_loss/blob/main/iphonemock.png" />
+  
+</p>
+<p align="center">
+  <i>↑ application mock design </i>
+  
+</p>
+
+---
+
+<details>
+    <summary>🔎 Main Commit</summary>
+
+ ```
+ 주요 Commit과 작성자를 같이 표기
+ ```
+ No major commits yet..
+
+</details>
+ 
+<details>
+    <summary>📑 Commit Rules</summary>
+
+ ```
+ Commit Rule
+ [JBMB-Jira_Ticket_Num] Commit contents (contributor)
+ ex) [JBMB-0001] BE Dto, Dao, Controller 구성 (이승훈)
+ ```
+
+
+</details>
+ 
+ 
+<details>
+    <summary>⚙ Branch Strategy</summary>
+
+ No major branch strategy yet..
+
+</details>
+ 
 ---    
 **💎 Develop Stack**
 - Front-End    
